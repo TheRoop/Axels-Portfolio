@@ -1,4 +1,4 @@
-# Axels - Portfolio
+
 
 👋 Hi, I'm Axel 
 🛡️ Aspiring SOC Analyst | Cybersecurity Enthusiast | Threat Detection & Incident Response
