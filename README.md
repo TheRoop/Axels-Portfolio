@@ -53,7 +53,7 @@ Build and monitor a security-focused lab environment utilizing Windows, Sysmon, 
 
 Created custom dashboards and searches to identify suspicious activity and investigate security events.
 
-🔗 Repository: hLoading...
+🔗 Repository: Loading...
 
 🌐 Network Traffic Analysis
 
